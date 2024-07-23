@@ -10,13 +10,13 @@ Cursos de programación tomados en la plataforma EdTeam gratuitamente.
 * ### **Markdown*[➡️🔗]()
     [Enlace a curso](***)
 
-* ### **Curso*[➡️🔗]()
+* ### **Terminal*[➡️🔗]()
     [Enlace a curso](***)    
 
-* ### **Curso*[➡️🔗]()
+* ### **Vim*[➡️🔗]()
     [Enlace a curso](***)
 
-* ### **Curso*[➡️🔗]()
+* ### **POO*[➡️🔗]()
     [Enlace a curso](***)
 
 Otros cursos gratis con certificado en EdTeam [Aquí](https://ed.team/blog/que-puedes-estudiar-completamente-gratis-en-edteam-incluye-certificado)

@@ -1,4 +1,4 @@
-let num = 1;
+let num = 10;
 let strings = "Hola Wilmer";
 let booleano = true;
 let date = new Date();
