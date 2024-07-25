@@ -4,7 +4,7 @@ Cursos de programación tomados en la plataforma EdTeam gratuitamente.
 
 ## *Cursos de programación*
 
-* ### *Programación desde cero*[➡️🔗](https://github.com/WilmerMarroquin/EdTeam/tree/main/ProgramacionCero)
+* ### *Programación desde cero*[➡️🔗](https://github.com/WilmerMarroquin/EdTeam/tree/main/CursoProgramacionCero)
     [Enlace a curso de programación desde cero](https://app.ed.team/cursos/programacion)
 
 * ### **Markdown*[➡️🔗]()
